@@ -17,13 +17,13 @@ $id_admin=$_SESSION['id_admin'];
  	$nik=$_POST['nik'];
  	if(empty($foto)) 
  	{
- 		$simpan=mysqli_query($koneksi,"update karyawan set nama='$nama', tgl_lahir='$tgl_lahir', alamat='$alamat', divisi='$divisi', email='$email' where nik='$nik'");
+ 		$simpan=mysqli_query($koneksi,"update tb_karyawan set nama='$nama', tgl_lahir='$tgl_lahir', alamat='$alamat', divisi='$divisi', email='$email' where nik='$nik'");
  	}
  	else
  	{
- 		$karyawan=mysqli_fetch_array(mysqli_query($koneksi,"select gambar from karyawan where nik='$nik'"));
+ 		$karyawan=mysqli_fetch_array(mysqli_query($koneksi,"select gambar from tb_karyawan where nik='$nik'"));
  		unlink('./images/'.$data['foto']); 
- 		$simpan=mysqli_query($koneksi,"update karyawan set gambar='$gambar' nama='$nama', tgl_lahir='$tgl_lahir', alamat='$alamat', divisi='$divisi', email='$email' where nik='$nik'");
+ 		$simpan=mysqli_query($koneksi,"update tb_karyawan set gambar='$gambar' nama='$nama', tgl_lahir='$tgl_lahir', alamat='$alamat', divisi='$divisi', email='$email' where nik='$nik'");
  		move_uploaded_file($foto,"./images/".$foto);
  	}
 

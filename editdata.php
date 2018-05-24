@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Ghoibsilents</title>
+<title>mamun</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
@@ -43,14 +44,14 @@
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="index.html" class="navbar-brand"><span>Ghoibsilents</span></a>
+			<a href="index.html" class="navbar-brand"><span>mamun</span></a>
 		</div>
 
 		<div class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
        <li><a href="data.php" class="smoothScroll">Data Karyawan</a></li>
-                <li><a href="inputkaryawan.php" class="smoothScroll">Input Karyawan</a></li>
-                <li><a href="logout.php" class="smoothScroll">Logout</a></li>
+                <li><a href="inputkaryawan.php" class="smoothScroll">memasukkan Karyawan</a></li>
+                <li><a href="logout.php" class="smoothScroll">keluar</a></li>
       </ul>
     </div>
 
@@ -121,7 +122,7 @@ $data=mysqli_fetch_array(mysqli_query($koneksi,"SELECT * FROM tb_karyawan where 
 
                <div class="col-md-8 col-sm-6">
                     <div class="wow fadeInUp footer-copyright" data-wow-delay="0.4s">
-                         <p>Ganjar Okta Mahendra
+                         <p>Ahmad aldo
                          <span>||</span> 
                          Tugas WP2</p>
                     </div>

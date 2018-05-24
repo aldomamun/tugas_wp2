@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Ghoibsilents</title>
+<title>mamun</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
@@ -49,8 +49,8 @@
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
 			 <li><a href="data.php" class="smoothScroll">Data Karyawan</a></li>
-                <li><a href="inputkaryawan.php" class="smoothScroll">Input Karyawan</a></li>
-                <li><a href="logout.php" class="smoothScroll">Logout</a></li>
+                <li><a href="inputkaryawan.php" class="smoothScroll">memasukkan Karyawan</a></li>
+                <li><a href="logout.php" class="smoothScroll">keluar</a></li>
 			</ul>
 		</div>
 
@@ -67,7 +67,7 @@
                     <div class="home-thumb">
                          <h1 class="wow fadeInUp" data-wow-delay="0.6s">Ruang Admin</h1>
                          <p class="wow fadeInUp" data-wow-delay="0.8s">Selamat Datang Admin</p>
-                         <p class="wow fadeInUp" data-wow-delay="1.0s">1. Untuk memasukan data baru, klik "Input Data" <br> 2. Untuk melihat data, klik "Data Karyawan"</p>
+                         <p class="wow fadeInUp" data-wow-delay="1.0s">1. Untuk memasukan data baru, klik "memasukkan Data" <br> 2. Untuk melihat data, klik "Data Karyawan"</p>
                     </div>
                </div>
 
@@ -81,7 +81,7 @@
 
                <div class="col-md-8 col-sm-6">
                     <div class="wow fadeInUp footer-copyright" data-wow-delay="0.4s">
-                         <p>Ganjar Okta Mahendra
+                         <p>Ahmad aldo
                          <span>||</span> 
                          Tugas WP2</p>
                     </div>

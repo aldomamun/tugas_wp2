@@ -1,7 +1,7 @@
 <?php
 
 $host     = 'localhost';
-$database = 'goibsilents';
+$database = 'karyawan';
 $user     = 'root';
 $password = '';
 

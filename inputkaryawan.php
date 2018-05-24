@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Ghoibsilents</title>
+<title>mamun</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
@@ -43,7 +43,7 @@
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="index.html" class="navbar-brand"><span>Ghoibsilents</span></a>
+			<a href="index.html" class="navbar-brand"><span></span></a>
 		</div>
 
 		<div class="collapse navbar-collapse">
@@ -114,7 +114,7 @@
 
                <div class="col-md-8 col-sm-6">
                     <div class="wow fadeInUp footer-copyright" data-wow-delay="0.4s">
-                         <p>Ganjar Okta Mahendra
+                         <p>Ahmad Aldo
                          <span>||</span> 
                          Tugas WP2</p>
                     </div>

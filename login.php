@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Ghoibsilents</title>
+<title>mamun</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
@@ -43,13 +43,13 @@
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="index.html" class="navbar-brand"><span>Ghoibsilents</span></a>
+			<a href="index.html" class="navbar-brand"><span></span></a>
 		</div>
 
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-			 <li><a href="#home" class="smoothScroll">Home</a></li>
-                <li><a href="login.php" class="smoothScroll">Login</a></li>
+			 <li><a href="#home" class="smoothScroll">beranda</a></li>
+                <li><a href="login.php" class="smoothScroll">masuk</a></li>
 			</ul>
 		</div>
 
@@ -63,7 +63,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <div class="section-title">
-                         <h1>Login Admin</h1>
+                         <h1>masuk admin</h1>
                          <hr>
                     </div>
                </div>
@@ -81,7 +81,7 @@
     			 <td><input type="password" name="password" required></td>
 				 </tr>
   				 <tr>
-   				 <td><button type="submit">Login</button></td>
+   				 <td><button type="submit">masuk</button></td>
  			     <td><button type="button" onclick="location=('./')">Kembali</button></td>
   				 </tr>
 				</table>
@@ -97,7 +97,7 @@
 
                <div class="col-md-8 col-sm-6">
                     <div class="wow fadeInUp footer-copyright" data-wow-delay="0.4s">
-                         <p>Ganjar Okta Mahendra
+                         <p>Ahmad aldo
                          <span>||</span> 
                          Tugas WP2</p>
                     </div>

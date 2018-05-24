@@ -7,7 +7,7 @@ http://www.templatemo.com/tm-492-app-starter
 */
 
 body {
-		background: #1c1c1c;
+		background: #de2c2c;
     font-family: 'century gothic', sans-serif;
     font-style: normal;
 		font-weight: 300;
@@ -206,7 +206,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 .navbar-default {
-    background: #ffffff;
+    background: #de2c2c;
     border: none;
     box-shadow: none;
     margin: 0 !important;
@@ -275,7 +275,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-    background: #535bd4 url('../images/a.png') no-repeat;
+    background: #F2D2D9 url('../images/a.png') no-repeat;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -294,7 +294,7 @@ a:hover, a:active, a:focus {
 #home .overlay {
   background: #4776E6; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #4776E6 , #8E54E9); /* Chrome 10-25, Safari 5.1-6 */ 
-  background: linear-gradient(to left, #4776E6 , #8E54E9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to left, #EC0A0A , #8E54E9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   opacity: 0.9;
   position: absolute;
   width: 100%;
